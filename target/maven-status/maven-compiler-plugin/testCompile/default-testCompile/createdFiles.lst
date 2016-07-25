@@ -1,0 +1,5 @@
+com\pokemon\service\PokemonServiceTest.class
+com\pokemon\PokemonGoApplicationTests.class
+com\pokemon\service\RepositoryTestSetUp.class
+com\pokemon\controller\ServiceTestSetUp.class
+com\pokemon\controller\PokemonControllerTest.class

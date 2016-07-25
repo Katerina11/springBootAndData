@@ -1,0 +1,6 @@
+com\pokemon\service\impl\PokemonServiceImpl.class
+com\pokemon\controller\PokemonController.class
+com\pokemon\dao\PokemonDao.class
+com\pokemon\service\PokemonService.class
+com\pokemon\model\Pokemon.class
+com\pokemon\PokemonGoApplication.class
